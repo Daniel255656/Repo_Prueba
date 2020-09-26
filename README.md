@@ -30,8 +30,7 @@
  		}
  		/*Para los links*/
  		a:link{ color: #000;}
- 		a:active{ color: #000;}
- 		a:visited{color: #000;}
+¿
  		/*Para definir los espacios de los span, los dos numeros es para separlos primer numero arriba y abajo, y el segundo de derecha a izquierda va a ver una distancia de hasta 15px*/
  		span{margin: 0 15px;}
  		/*identificadores
@@ -45,20 +44,13 @@
  		#nav{ height: 48px;}
  		#footer{ height: 1000px; height: 110px; text-align: center; padding-top: 5px;}
 
- 		/* indentificadores que cambian por pagina*/
- 		#content{ width: 1000px; height: 780px; padding: 10px 0;}
- 		#principal{width: 740px; height: 780px; float: left; padding: 10px 30px; font-size: 17px; text-align: justify; background-color: #f1f800;}
- 		#lateral{width: 190px; height: 780px; float: left; padding: 10px 5px;}
 
- 		/*Clases
-		las clases se hacen con .
- 		*/
  		.menu{width: 198px; height: 48px; text-align: center; background-image: url(img/menu.jpg); font-size: 18px;}
 
  		.footerLadoA{width: 1000px; height: 50px;}
  		.footerLadoB{width:500px; height:60px; float: left; font-size: 12px;}
 
- 	</style>
+
 </head>
 <body>
 
@@ -89,69 +81,13 @@
 		<div id="content">
 			<!--Contenido principal-->
 			<div id="principal">
-				<h2 style="text-align: center;">Información sobre la minería</h2>
 
-				<!--Parrafo 1-->
-				<table>
-					<tr>
-						<td style="width:70%; height: 100px;background-color: red;">
-							<p>La minería es la extracción selectiva de los minerales y otros materiales de la corteza terrestre de los cuales se puede obtener un beneficio económico, así como la actividad económica primaria relacionada con ella. Dependiendo del tipo de material a extraer la minería se divide en metálica, no metálica y piedras ornamentales y de construcción. Existen más de 7000 minas en producción y se construyen más cada año. La minería ha tenido un significativo impacto en el desarrollo de muchos países (incluso algunos que hoy en día no tienen industria minera).</p>
-						</td>
-						<td style="width: 30%; text-align: center; background-color: pink">
-							<img src="img/miniMineros01.jpg" width="150" height="100" alt="mineros">
-						</td>
-					</tr>
-				</table>
-
-				<!--Parrafo 2-->
-				<table>
-					<tr>
-						<td style="width: 30%; text-align: center;">
-							<img src="img/minimineros02.jpg" width="150" height="100" alt="mineros">	
-						</td>
-						<td style="width:70%; height: 100px;">
-							<p>Los métodos de explotación pueden ser a cielo abierto o subterráneo. Los factores que lo determinarán serán entre otros la geología y geometría del yacimiento y la característica geomecánica del mineral y el estéril, también influyen factores económicos que rigen la industria minera actual.</p>
-						</td>
-					</tr>
-				</table>
-
-				<!--Parrafo 3-->
-				<table>
-					<tr>
-						<td style="width:70%; height: 100px;">
-							<p>El proceso de minería involucra diferentes etapas las cuales son llevadas a cabo para desarrollar un proyecto minero, dentro de estas etapas se encuentran; la búsqueda y estimación de recursos, proyecto (prefactibilidad, factibilidad, ingeniería de detalles), obras, desarrollo minero ó explotación (arranque y manejo de materiales), procesamiento y comercialización.</p>
-						</td>
-						<td style="width: 30%; text-align: center;">
-							<img src="img/minimineros03.jpg" width="150" height="100" alt="mineros">	
-						</td>
-						
-					</tr>
-				</table>
-
-				<!--Parrafo 4-->
-				<table>
-					<tr>
-						<td style="width: 30%; text-align: center;">
-							<img src="img/minimineros04.jpg" width="150" height="100" alt="mineros">
-						</td>	
-						<td style="width:70%; height: 100px;">
-							<p>La mina más antigua que se tiene constancia arqueológica es "Cueva del León", en Suazilandia. En este lugar, que de acuerdo con las dataciones por el método del carbono 14 tiene una edad de 43.000 años, los hombres del paleolítico excavaban buscando hematites, un mineral que contiene hierro, con el que probablemente producían pigmentos de color ocre.</p>
-						</td>
-					</tr>
-				</table>
 				
 			</div>
 
 			<!-- div lateral-->
 			<div id="lateral">
-					<img src="img/anuncio1.jpg" width="100%" height="270;" alt="Publicidad">
-
-					<p>Peores consecuencias que la sangre y el fuego de la guerra tuvo la implantación de una economía minera. Las minas exigían grandes desplazamientos de población y desarticulaban las unidades agrícolas comunitarias; no sólo extinguían vidas innumerables a través del trabajo forzado, sino que además, indirectamente, abatían el sistema colectivo de cultivos. <br><br><strong>"Las venas abiertas de América Latina" (1971), Eduardo Galeano</strong></p>
-
-					<img src="img/anuncio3.jpg" width="100%" height="270;" alt="Publicidad">
-					
-
-
+¿
 			</div>
 
 		</div>
@@ -165,7 +101,7 @@
 					<span>Políticas de privacidad</span> / 
 					<span>Noticias</span>
 				</p>
-				
+
             </div><!--Fin FooterLadoA--> 
             <!--Lado Inferior-->
             <div class="footerLadoA">
